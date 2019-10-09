@@ -15,7 +15,7 @@ class GetQualtricsData():
     def __init__(self, surveyID, apiToken):
         self.surveyID = surveyID
         self.apiToken = apiToken
-        self.path = r"C:\Users\JefferyMcCain\OneDrive - Databrains\Documents\Consulting\Athlete View\DataDumps\v2Surveys"
+        self.path = r""
         self.date = dt.utcnow().strftime("%Y_%m_%dT%H.%M")
 
     def downloadSurvey(self):
