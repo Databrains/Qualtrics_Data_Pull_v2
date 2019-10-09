@@ -1,0 +1,6 @@
+[qualtrics]
+apiToken = ftkm9dk1Wyo7D3XuTgnKYYiiWDV5XS9UVAjWDyM1
+userId = UR_0ILeY1lUVrMUzAN
+dataCenter = az1
+[surveys]
+saCore = SV_9HzUFpteIuJKztP
